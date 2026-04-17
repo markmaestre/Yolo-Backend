@@ -3,7 +3,7 @@ from ultralytics import YOLO
 import shutil
 import os
 import cv2
-import torch  # optional
+import torch  
 
 app = FastAPI()
 
